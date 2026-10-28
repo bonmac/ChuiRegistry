@@ -4,3 +4,4 @@ repo = "https://github.com/bonmac/ChuiRegistry.git"
 description = "Registry for the Chui Julia ecosystem (ChuiCore, ChuiTypes, ChuiFrames, ...)"
 
 [packages]
+c0d4c089-5838-4d6c-a383-cbe7040d805f = { name = "ChuiCore", path = "C/ChuiCore" }
